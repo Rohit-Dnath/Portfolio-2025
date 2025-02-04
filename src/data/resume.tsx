@@ -81,7 +81,7 @@ export const DATA = {
       start: "Aug 2023",
       end: "Jan 2024",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "I designed and implemented the database and backend architecture for Earnifyy, leveraging MongoDB for robust data management. I streamlined the payment tracking and user authentication systems, which resulted in a 40% reduction in processing times. Additionally, I focused on enhancing the platform's reliability, leading to fewer technical issues, particularly during peak usage times.",
     },
     {
       company: "Codasauras Developers Community",
@@ -93,7 +93,7 @@ export const DATA = {
       start: "May 2024",
       end: "Present",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "I coordinated over 20 events to foster developer engagement and knowledge sharing within the Codasauras Developers Community. To enhance the overall event experience, I implemented a structured feedback system, which led to a 25% increase in event satisfaction scores.",
     },
     
   ],
