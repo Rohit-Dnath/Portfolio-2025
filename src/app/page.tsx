@@ -97,7 +97,7 @@ export default function Page() {
           ))}
         </div>
       </section>
-      <section id="skills">
+      <section id="Tools I have used">
         <div className="flex min-h-0 flex-col gap-y-3">
           <BlurFade delay={BLUR_FADE_DELAY * 9}>
             <h2 className="text-xl font-bold">Skills</h2>

@@ -155,7 +155,6 @@ export const DATA = {
         "Express.js",
         "MongoDB",
         "Prisma",
-        "Razoypay",
         "Docker",
       ],
       links: [
