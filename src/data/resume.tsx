@@ -33,7 +33,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "https://drive.google.com/file/d/1TyQc_L4NB59tbdYjfvOinL9y5CeIiz22/view.", icon: NotebookIcon, label: "Resume" },
+    { href: "https://drive.google.com/file/d/1a4wmdDcGnGHI0i4pG-PF5THk_WJnN1-f/view?usp=sharing", icon: NotebookIcon, label: "Resume" },
   ],
   contact: {
     email: "debnathrohit97@gmail.com",
