@@ -20,7 +20,10 @@ export const DATA = {
 
   avatarUrl: "/mee.png",
   skills: [
+    "HTML/CSS",
     "React",
+    "Tailwind css",
+    "Bootstrap css",
     "Next.js",
     "Typescript",
     "Node.js",
