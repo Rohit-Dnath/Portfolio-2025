@@ -100,7 +100,6 @@ export const DATA = {
   education: [
     {
       school: "JIS College of Engineering",
-      href: "https://www.jiscollege.ac.in/",
       degree: "B.Tech in Computer Science and Engineering (Ai/Ml)",
       logoUrl: "/jis.png",
       start: "2023",
